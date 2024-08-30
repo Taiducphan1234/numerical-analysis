@@ -1,0 +1,10 @@
+# ninja log v6
+8	3325	7458738662822007	CMakeFiles/untitled.dir/main.cpp.obj	20de80634a56f512
+3329	3732	7458738696032949	untitled.exe	37ad0518dda0563a
+22	711	7467231543485987	CMakeFiles/untitled.dir/main.cpp.obj	9a1f7ed5d3a0fd6e
+30	724	7467231543571358	CMakeFiles/untitled.dir/equations-solver.cpp.obj	f22ec9510abaf1f
+724	898	7467231550509485	untitled.exe	8b59dad1a4325ba0
+15	707	7467231681265375	CMakeFiles/untitled.dir/equations-solver.cpp.obj	f22ec9510abaf1f
+708	839	7467231688201244	untitled.exe	8b59dad1a4325ba0
+17	572	7467232081174221	CMakeFiles/untitled.dir/equations-solver.cpp.obj	f22ec9510abaf1f
+572	688	7467232086727240	untitled.exe	8b59dad1a4325ba0
