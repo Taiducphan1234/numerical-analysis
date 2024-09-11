@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/CMakeFiles/autodiff-populate"
+		},
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/CMakeFiles/autodiff-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/CMakeFiles/autodiff-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/autodiff-populate-prefix/src/autodiff-populate-stamp/autodiff-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/autodiff-populate-prefix/src/autodiff-populate-stamp/autodiff-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/autodiff-populate-prefix/src/autodiff-populate-stamp/autodiff-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/autodiff-populate-prefix/src/autodiff-populate-stamp/autodiff-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/autodiff-populate-prefix/src/autodiff-populate-stamp/autodiff-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/autodiff-populate-prefix/src/autodiff-populate-stamp/autodiff-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/autodiff-populate-prefix/src/autodiff-populate-stamp/autodiff-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Hello/CLionProjects/numerical analysis/cmake-build-debug/_deps/autodiff-subbuild/autodiff-populate-prefix/src/autodiff-populate-stamp/autodiff-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"autodiff-populate"
+		],
+		"name" : "autodiff-populate"
+	}
+}
