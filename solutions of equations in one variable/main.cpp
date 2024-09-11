@@ -1,6 +1,7 @@
 #include <cmath>
 #include <iostream>
 #include "equations-solver.h"
+#include "accelerated-solvers.h"
 
 using namespace std;
 
@@ -25,5 +26,7 @@ int main() {
     secant_solver(1, 2, func_test);
     cout << "The iterations for false position method are as follow" << endl;
     false_position_solver(1, 2, func_test);
+    cout << "The iterations for steffensens_method are as follow" << endl;
+    steffensen_solver(1.5, fixed_point_solver_test, 1e-10);
     return 0;
 }
